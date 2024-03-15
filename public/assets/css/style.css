@@ -1,0 +1,22 @@
+.container img {
+    transition: all 0.3s;
+}
+.container button:hover img {
+    opacity: 70%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid grey;
+}
+
+th{
+    background-color: #dddddd;
+}
+
+th,
+td {
+    border: 1px solid grey;
+    padding: .5rem;
+}
